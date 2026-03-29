@@ -1,12 +1,12 @@
-# SMART_WEED_DETECTION_AND_REMOVAL_SYSTEM_Final_YOLOv8
+# SMART_WEED_DETECTION_AND_REMOVAL_SYSTEM_YOLOv8
 Smart Weed Detection using YOLOv8 for crop and weed classification. Includes dataset preprocessing, augmentation, and model training on a balanced dataset with performance evaluation metrics such as precision, recall, and mAP.
-# Smart Weed Detection System using YOLOv8
+Smart Weed Detection System using YOLOv8
 
 This project focuses on detecting weeds and crops in agricultural fields using deep learning. The system is designed to help farmers identify unwanted weeds and improve crop management using computer vision techniques.
 
 The project currently implements the YOLOv8 model for object detection. The model is trained on a custom dataset containing crop and weed images with bounding box annotations.
 
-# Dataset Description
+Dataset Description
 
 The dataset consists of three parts:
 
